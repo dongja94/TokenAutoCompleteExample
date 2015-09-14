@@ -1,0 +1,2 @@
+include ':tokenAutoComplete'
+include ':tokenAutoCompleteExample'
